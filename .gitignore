@@ -1,1 +1,3 @@
 .venv
+.env
+outputs-images-generated-by-model
